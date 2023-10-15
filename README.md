@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Full Stack Web Develop.
 - 💞️ I’m looking to collaborate on a Big startup.
 
--  <a href="https://emoji.gg/emoji/8374_Telegram"><img src="https://emoji.gg/assets/emoji/8374_Telegram.png" width="20px" height="20px" alt="Telegram"></a> Contact me : 
-	@amirhosein_grs
 
 
 

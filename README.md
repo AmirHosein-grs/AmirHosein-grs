@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AmirHosein Garoosi.
-- 👀 I’m interested in programming languages ,Music ,book ,riding bike and Design.
 - 🌱 I’m currently learning Full Stack Web Develop.
-- 👀 I’m looking to collaborate on a Big startup.
+
 
 
 

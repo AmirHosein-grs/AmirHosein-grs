@@ -1,6 +1,3 @@
-- 👋 Hi, I’m AmirHosein Garoosi.
-- 🌱 I’m currently learning Full Stack Web Develop.
-
 
 
 

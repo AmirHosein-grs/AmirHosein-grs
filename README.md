@@ -2,7 +2,7 @@
 
 ## 👋 Hello!
 
-Software engineer with 5+ years of experience. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, and API development.
+Software engineer with 5+ years of experience. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API development.
 
 ## 📚 Writing
 
